@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-layout: single
+layout: archive
 excerpt: "About Me."
 sitemap: true
 permalink: /about/
