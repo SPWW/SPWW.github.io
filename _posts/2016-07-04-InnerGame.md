@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "我的读书笔记：The Inner Game of Tennis"
 date:   2016-06-29
 categories: blog
