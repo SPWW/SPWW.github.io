@@ -4,6 +4,7 @@ layout: single
 excerpt: "About Me."
 sitemap: true
 permalink: /about/
+author_profile: true
 ---
 
 Msc and LL.B.
