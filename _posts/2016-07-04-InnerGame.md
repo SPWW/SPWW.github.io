@@ -5,7 +5,7 @@ date:   2016-06-29
 categories: blog
 ---
 
-![tennis game](images/bigstock-Tennis-4996559.jpg)
+![tennis game](../images/bigstock-Tennis-4996559.jpg)
 
 > 为什么比赛时会表现不佳，为什么越是不想出错却越是会犯错？勇士队主教练 Steve Kerr 号称每个夏天都会读一遍的书，一百多页的小册子，阐述 Best Performence 与主观意愿之间的关系。
 
