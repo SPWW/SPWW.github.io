@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "用Qt写一个流媒体播放器"
 date:   2016-02-29
 categories: blog
@@ -8,7 +8,7 @@ categories: blog
 
 # 用Qt写一个流媒体播放器
 
-![demo](/image/20160229122845.png)
+![demo](SPWW.github.io/images/20160229122845.png)
 ## 前提
 
 Qt内置了多媒体播放的字库QMultiMedia，使用这个组件内提供的各种工具可以比较方便的写出一个简单的播放器，但是这个组件没有提供流媒体播放
