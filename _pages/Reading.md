@@ -1,6 +1,6 @@
 ---
 title: "Reading List"
-layout: single
+layout: archive
 excerpt: "Reading records."
 sitemap: true
 permalink: /reading/
