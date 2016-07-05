@@ -4,6 +4,7 @@ layout: single
 excerpt: "Reading records."
 sitemap: true
 permalink: /reading/
+author_profile: true
 ---
 
 # 2016
