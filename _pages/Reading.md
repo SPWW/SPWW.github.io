@@ -3,7 +3,7 @@ title: "Reading List"
 layout: single
 excerpt: "Reading records."
 sitemap: true
-permalink: /reading.html
+permalink: /reading/
 ---
 
 # 2016
