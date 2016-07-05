@@ -1,10 +1,12 @@
 ---
-layout: page
-title: Book List
-permalink: /Reading/
+title: "Reading List"
+layout: single
+excerpt: "Reading records."
+sitemap: true
+permalink: /reading.html
 ---
 
-#2016
+# 2016
 
 |date    |title             |author      |rank |
 |--------|------------------|------------|----:|
