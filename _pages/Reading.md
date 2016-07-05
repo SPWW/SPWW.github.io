@@ -21,3 +21,40 @@ permalink: /reading/
 |06/24   |**Zero to one**        |Peter Thiel       |4    |
 |06/25   |**The Inner Game of Tennis**        |Gallwey, W. Timothy       |3    |
 |07/04   |**精进：如何成为一个很厉害的人**        |采铜       |3    |
+
+# 2015
+
+|title    |rank              |
+|--------|------------------:|
+|The Hard Thing About Hard Things Ben Horowitz   |3|
+|The Tipping Point Malcolm Gladwell   |4        |
+|Outliers: The Story of Success Malcolm Gladwell   |4      |
+|编程珠玑   |3|
+|Taming The Big Data Tidal Wave Bill Franks   |2    |
+|超越金融 乔治·索罗斯   |3        |
+|Fifty Shades of Grey E L 詹姆絲(E L James)  |0       |
+|聪明的投资者 Benjamin Graham   |3       |
+|暗时间 刘未鹏   |3        |
+|The Second Machine Age: Work, Progress, and Prosperity in a Time of Erik Brynjolfsson, Andrew McAfee   |3|
+|硅谷之火 迈克尔·斯韦因   |3        |
+|case in point Marc P. Cosentino   |3        |
+|硅谷之火 迈克尔·斯韦因   |3        |
+|删除：大数据取舍之道 （英）维克托·迈尔-舍恩伯格   |4        |
+|大数据时代 （英）维克托·迈尔-舍恩伯格   |4        |
+|2001太空漫游 阿瑟.克拉克   |4        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
