@@ -6,7 +6,6 @@ categories: blog
 ---
 
 
-# 用Qt写一个流媒体播放器
 
 ![demo](/images/20160229122845.png)
 ## 前提
