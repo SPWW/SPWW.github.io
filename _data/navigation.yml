@@ -2,6 +2,9 @@
 main:
   - title: "Reading List"
     url: /reading/
-
+    
+  - title: "Blogs"
+    url: /categories/#blog
+    
   - title: "About Me"
     url: /about/
