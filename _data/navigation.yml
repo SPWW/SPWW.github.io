@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Reading List"
-    url: /_pages/Reading.md
+    url: /reading/
 
   - title: "About Me"
-    url: /
+    url: /about/
