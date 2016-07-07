@@ -22,6 +22,7 @@ author_profile: true
 |06/24   |**Zero to one**        |Peter Thiel       |4    |
 |06/25   |**The Inner Game of Tennis**        |Gallwey, W. Timothy       |3    |
 |07/04   |**精进：如何成为一个很厉害的人**        |采铜       |3    |
+|07/07   |**恶意**        |东野圭吾       |3    |
 
 # 2015
 
