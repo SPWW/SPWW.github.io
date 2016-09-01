@@ -17,7 +17,7 @@ categories: blog
 
 说道这里可能很多人还不知道slack是什么，在这摘抄一段wiki，有兴趣的话可以自己研究下，对于团队协作，以及系统集成自动化都会有不少的帮助：
 
-Slack is a cloud-based team collaboration tool co-founded by Stewart Butterfield, Eric Costello,Cal Henderson, and Serguei Mourachov.[1](#) Slack began as an internal tool used by their company, Tiny Speck, in the development of Glitch, a now defunct online game.
+  Slack is a cloud-based team collaboration tool co-founded by Stewart Butterfield, Eric Costello,Cal Henderson, and Serguei Mourachov.[1](#) Slack began as an internal tool used by their company, Tiny Speck, in the development of Glitch, a now defunct online game.
 
 关于slackbot如何构建，最简单的方式是使用python的slackbot第三方库，可以通过装饰器语法简单的定义slackbot的action。python slackbot的github地址在此。[https://github.com/lins05/slackbot](https://github.com/lins05/slackbot)
 
