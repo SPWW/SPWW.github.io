@@ -15,4 +15,5 @@ I am interested in engineering and technology. Quick learner and serious enginee
 * 2011~2014 H3C Technologies Co., Ltd 
 * 2014~2015 the Chinese University of Hong Kong
 * 2015~2016 the University of Hong Kong
-* 2016~ Sierra Wireless
+* 2016~2016 Sierra Wireless
+* 2016~     KOKOMO
