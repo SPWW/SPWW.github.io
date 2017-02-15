@@ -7,6 +7,13 @@ permalink: /reading/
 author_profile: true
 ---
 
+# 2017
+
+|date    |title             |author      |rank |
+|--------|------------------|------------|----:|
+|01/25   |**Black Swan**|Nassim Nicholas Taleb|4     |
+|02/03   |**Flash Boy**|Michael lewis|3     |
+
 # 2016
 
 |date    |title             |author      |rank |
