@@ -15,7 +15,7 @@ author_profile: true
 |02/03   |**Flash Boy**|Michael lewis|3     |
 |03/05   |**Liar's Poker: Rising through the Wreckage on Wall Street**|Michael lewis|3     |
 |04/15   |**The Lady Tasting Tea**|David Salsburg|3     |
-
+|05/12   |**兄弟**|余华|4     |
 
 
 
