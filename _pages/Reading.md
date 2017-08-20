@@ -16,7 +16,8 @@ author_profile: true
 |03/05   |**Liar's Poker: Rising through the Wreckage on Wall Street**|Michael lewis|3     |
 |04/15   |**The Lady Tasting Tea**|David Salsburg|3     |
 |05/12   |**兄弟**|余华|4     |
-
+|08/07   |**Sapiens: A Brief History of Humankind**|Yuval Noah Harari|4     |
+|08/20   |**2010: Odyssey Two**|Arthur C. Clarke|4     |
 
 
 # 2016
