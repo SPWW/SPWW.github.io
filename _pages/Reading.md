@@ -18,6 +18,7 @@ author_profile: true
 |05/12   |**兄弟**|余华|4     |
 |08/07   |**Sapiens: A Brief History of Humankind**|Yuval Noah Harari|4     |
 |08/20   |**2010: Odyssey Two**|Arthur C. Clarke|4     |
+|08/27   |**我们仨**|杨绛|4     |
 
 
 # 2016
